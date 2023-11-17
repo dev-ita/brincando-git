@@ -10,6 +10,7 @@ public class App {
 		System.out.println(gitAuthor.toString());
 		
 		System.out.println("commit 3");
+		System.out.println("commit 4");
 	}
 }
 
