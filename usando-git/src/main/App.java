@@ -8,6 +8,8 @@ public class App {
 		GitAuthor gitAuthor = new GitAuthor("dev-ita", "https://github.com/dev-ita/brincando-git.git");
 		
 		System.out.println(gitAuthor.toString());
+		
+		System.out.println("commit 3");
 	}
 }
 
