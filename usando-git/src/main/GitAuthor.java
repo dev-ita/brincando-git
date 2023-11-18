@@ -8,7 +8,7 @@ class GitAuthor {
 		this.gitAuthorName = gitAuthorName;
 		this.gitHttps = gitHttps;
 	}
-	
+
 	@Override
 	public String toString() {
 		return this.gitAuthorName + ", " + this.gitHttps + "\n";
