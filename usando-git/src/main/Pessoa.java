@@ -8,7 +8,7 @@ public class Pessoa {
 	private int idade;
 	private Date dataNascimento;
 	private String CPF;
-
+	
 	public String getCPF() {
 		return CPF;
 	}
