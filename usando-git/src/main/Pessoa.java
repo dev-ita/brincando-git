@@ -9,6 +9,14 @@ public class Pessoa {
 	private Date dataNascimento;
 	private String CPF;
 
+	public String getCPF() {
+		return CPF;
+	}
+
+	public void setCPF(String cPF) {
+		CPF = cPF;
+	}
+
 	public Date getDataNascimento() {
 		return dataNascimento;
 	}
