@@ -7,6 +7,7 @@ public class Pessoa {
 	private String sobrenome;
 	private int idade;
 	private Date dataNascimento;
+	private Date dataNascimento2;
 
 	public Date getDataNascimento() {
 		return dataNascimento;
