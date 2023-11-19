@@ -11,7 +11,7 @@ class GitAuthor {
 	}
 	
 	public String getToken() {
-		return this.token;		
+		return this.token;
 	}
 
 	@Override
